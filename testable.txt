@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"HELLO WORLD!"
-=======
 "HELLO world!"
->>>>>>> newBranch
+
